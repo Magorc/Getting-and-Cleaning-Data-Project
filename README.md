@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Project
+# Getting and Cleaning Data Project
 ###Course project for the Coursera course "Getting and Cleaning Data"
 
 The following data must be downloaded to your working directory.  Do not re-name
